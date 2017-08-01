@@ -1,5 +1,6 @@
 # Geeni
 Developers: Jorge Cruz Serrallés and Joel Pozin
+
 Version: 0.1.0
 
 About
@@ -9,8 +10,8 @@ conditions the user has based on their 23andMe file containing their genetic cod
 The 23andMe file must be a text file (*.txt) and completely unaltered by the user.
 
 Instructions
-Before using thi
-s application, ensure that you have an lxml parser installed on
+
+Before using this application, ensure that you have an lxml parser installed on
 your computer. If you have Python, you can install this parse from your command
 line with the command "pip install lxml".
 
