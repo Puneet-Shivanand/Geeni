@@ -1,4 +1,4 @@
-Geeni
+# Geeni
 Developers: Jorge Cruz Serrallés and Joel Pozin
 Version: 0.1.0
 
